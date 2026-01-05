@@ -2,8 +2,18 @@
   "name": "greeting_package",
   "version": "1.0.0",
   "description": "This is a greeting package",
-  "main": "index.js",
   "type": "module",
+  "main": "lib/index.cjs",
+  "exports": {
+    "import": {
+      "default": "./lib/index.esm.js",
+      "types": "./lib/types/index.d.ts"
+    },
+    "require": {
+      "default": "./lib/index.cjs",
+      "types": "./lib/types/index.d.ts"
+    }
+  },
   "scripts": {
     "build": "rollup -c"
   },
@@ -12,7 +22,7 @@
     "url": "git+https://github.com/Newton-Duarte/greeting_package.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Newton Duarte",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Newton-Duarte/greeting_package/issues"
