@@ -1,5 +1,12 @@
 # @newton_duarte/greeting-package
 
+## 2.0.0
+
+### Major Changes
+
+- 6ab83e3: Created a monarch cats morning greet
+- 6ab83e3: Added grumpy to monarch cats
+
 ## 2.0.0-beta.1
 
 ### Major Changes
@@ -11,6 +18,7 @@
 ### Major Changes
 
 - 2227277: Created a monarch cats morning greet
+
 ## 1.2.2
 
 ### Patch Changes
