@@ -5,6 +5,7 @@
     "@newton_duarte/greeting-package": "1.2.1"
   },
   "changesets": [
-    "chatty-mirrors-kneel"
+    "chatty-mirrors-kneel",
+    "lemon-teeth-press"
   ]
 }
