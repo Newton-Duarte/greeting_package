@@ -11,6 +11,11 @@
 ### Major Changes
 
 - 2227277: Created a monarch cats morning greet
+## 1.2.2
+
+### Patch Changes
+
+- f65a6e6: Improve night greet
 
 ## 1.2.1
 
