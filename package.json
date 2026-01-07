@@ -1,6 +1,6 @@
 {
   "name": "@newton_duarte/greeting-package",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "This is a greeting package",
   "type": "module",
   "main": "lib/index.cjs",
