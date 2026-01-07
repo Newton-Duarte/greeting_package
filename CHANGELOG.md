@@ -1,5 +1,11 @@
 # @newton_duarte/greeting-package
 
+## 1.2.1
+
+### Patch Changes
+
+- 5397d43: Improve night greet
+
 ## 1.2.0
 
 ### Minor Changes
