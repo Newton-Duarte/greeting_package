@@ -1,0 +1,11 @@
+{
+  "mode": "exit",
+  "tag": "beta",
+  "initialVersions": {
+    "@newton_duarte/greeting-package": "1.2.1"
+  },
+  "changesets": [
+    "chatty-mirrors-kneel",
+    "lemon-teeth-press"
+  ]
+}
