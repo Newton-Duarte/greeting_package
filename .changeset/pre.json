@@ -1,0 +1,8 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@newton_duarte/greeting-package": "1.2.1"
+  },
+  "changesets": []
+}
